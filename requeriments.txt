@@ -1,0 +1,4 @@
+Markdown==2.5.1
+pelican==3.4.0
+webassets==0.10.1
+cssmin==0.2.0
